@@ -1,0 +1,4 @@
+## 🛠 Requirements
+- Python 3.13.7 
+- No external libraries needed (uses built-in `os` and `shutil`).
+
